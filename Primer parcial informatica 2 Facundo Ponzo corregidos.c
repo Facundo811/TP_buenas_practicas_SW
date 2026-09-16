@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+//hola mundo
 
 typedef struct {
 	float tension;
@@ -167,21 +167,21 @@ void mostrarMenu(){
 			
 			if(opcion == 1) {
 				
-				printf("\n n°1 mayor tension \n");
+				printf("\n nï¿½1 mayor tension \n");
 				printf("maquina: %s\n");
 				printf("valor: %.2f \n");
 				
-				printf("\n n°2 mayor tension \n");
+				printf("\n nï¿½2 mayor tension \n");
 				printf("Maquina: %s \n");
 				printf("Valor: %.2f \n");
 				
 			} else {
 				
-				printf("\n n°1 mayor corriente \n");
+				printf("\n nï¿½1 mayor corriente \n");
 				printf("maquina: %s\n");
 				printf("valor: %.2f \n");
 				
-				printf("\n n°2 mayor corriente \n");
+				printf("\n nï¿½2 mayor corriente \n");
 				printf("Maquina: %s \n");
 				printf("Valor: %.2f \n");
 			}
